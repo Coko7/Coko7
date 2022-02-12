@@ -60,16 +60,20 @@ I have included here the technologies I have used most in my projects.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+<!---
 ## 📬 How to reach me
 
 You can contact me using the following:
 
-<a href="https://www.linkedin.com/in/corentin-humbert/" style="display: flex; flex-direction: row; align-items: center;">
-<img src="./images/linkedin.png" width="30px" alt="Coko | LinkedIn" style="margin: 0.5em 0"><span style="margin-left: 0.5em">Corentin Humbert</span> 
+<a href="https://www.linkedin.com/in/corentin-humbert/">
+<img src="./images/linkedin.png" width="30px" alt="Coko | LinkedIn">
 </a>
-<a href="http://corentin-humbert.fr" style="display: flex; flex-direction: row; align-items: center;">
-<img src="./images/web.png" width="30px" alt="Coko | Portfolio" style="margin: 0.5em 0"><span style="margin-left: 0.5em">Portfolio (W.I.P)</span>
+
+<a href="http://corentin-humbert.fr">
+<img src="./images/web.png" width="30px" alt="Coko | Portfolio">
 </a>
+--->
+
 <!---
 Coko7/Coko7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
