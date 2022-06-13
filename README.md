@@ -1,6 +1,6 @@
 ![Corentin Humbert](./images/banner.png)
 
-<h1 align="center">Hi, I'm Coko <img src="./images/hi.gif" width="35px" /></h1>
+<h1 align="center">Hi, I'm Coko <img src="./images/hi.gif" width="35" /></h1>
 <h2 align="center">CS student and optimization enthusiast</h2>
 
 ## 🐘 A Little About Me
