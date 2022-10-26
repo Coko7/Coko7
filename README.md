@@ -1,4 +1,4 @@
-![Corentin Humbert](./images/banner.png)
+![Corentin Humbert](./images/banner_memory.png)
 
 <h1 align="center">Hi, I'm Coko <img src="./images/hi.gif" width="35" /></h1>
 <h2 align="center">CS student and optimization enthusiast</h2>
