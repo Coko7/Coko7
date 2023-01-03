@@ -6,11 +6,17 @@
 ## 🐘 A Little About Me
 
 <div align="justify">
-<p>I am fundamentaly a lazy person. This has led me to want to optimize <b>anything</b> and <b>everything</b>. And as it turns out, computers are perfectly suited for that!</p>
-<p>
-When it comes to computer science, there is so much to know and to do that I simply <b>love learning new things</b> all the time. Whether that be how a computer works down to the transistor level, or how we are able to connect to any website thanks to the Internet, or even how to make roguelike games so fun to play!</p>
-<p>
-That is why I love to work on various different things such as web development (frontend and backend), low level programming (combinational circuits, OS development, IoT...), video game making, operations research and so on...</p>
+<p>At my core, I would say I am fundamentaly a <b>lazy</b> and <b>curious</b> person :</p> 
+<ul>
+  <li>Lazy because I hate doing the same tedious tasks over and over when I could have an automated system do it in my stead.</li>
+  <li>And curious because the world of computer science is both fascinating and very complex and I always want to learn more about it.</li>
+</ul>
+ <p>I am amazed by how humans were able to design such complex information systems in so little time. The more I learn about computers, the more I realize <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">how little I know</a> about them.</p>
+
+<p>If only I had enough time to do so, I would love to learn every seperate field of computer science. Whether that be how computers work down to the transistor level, how operation systems are made, what complex problems we have to solve to have a working world wide interconnected network, to the designing of websites, video games, A.I networks and so on.</p>
+
+<p>Up until now, I would say I have mainly worked with web development because that is the easiest way for me to share what I create with others.  Ultimately though, my love about CS is all about how we can leverage the power of computing to solve unbelievably difficult problems.</p>
+
 </div>
 
 ## 💼 Technical Skills
@@ -31,8 +37,9 @@ I have included here the technologies I have used most in my projects.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=Blazor&logoColor=white)
 
-### 🛠️ Software Used
+### 🛠️ Software & Tools Used
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
