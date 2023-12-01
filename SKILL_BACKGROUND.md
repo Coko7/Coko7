@@ -66,7 +66,7 @@ Timeline:
   - Still doing nonsense on Minecraft
   - Started doing even more C
   - Used SFML to make the Ultimate Space shooter game for the school's game jam (huge success)
-  - Learned about PHP
+  - Started learning about PHP, JavaScript and JQuery
 - 2018:
   - Started learning about C#
   - Dabbled with WPF and similar stuff
@@ -84,6 +84,7 @@ Timeline:
   - Implement various interesting algorithms in C (compression, allocators, etc.)
   - Started learning a lot about hardware (ARM assembly, Boolean algebra, logic gates, ALU...)
   - Realizes Linux is way better for programming than Windows
+  - Briefly learned about Angular but dropped very quickly
 - 2020:
   - Failed the hardware course
   - Spent entire summer holidays re-learning full hardware course from scratch
@@ -96,38 +97,43 @@ Timeline:
   - Started learning about Operations research and earned one milk medal for solving bonus problems (still wearing it to this day)
   - A lot of functional programming *(looking at you OCaml)*
   - Creating a compiler for a made-up language in OCaml
-  - Feels more confident using recursive-only programming
+  - Feeling more confident using recursive-only programming
   - Create own custom shell from scratch (coded in C)
 - 2021:
   - Discovered the best programming languages of all times: Brainfuck
   - Had fun creating a very basic Brainfuck compiler in C
   - Started learning about esotheric programming languages 
   - At this point, I am almost only using Linux but I still have Windows for gaming
-  - Bought a Raspberry Pi at some point and started using for nonsense
+  - Did an internship using Java Spring framework
+  - Started learning Vue.js and used it to make my biggest project so far
+  - Bought a Raspberry Pi at some point and started using it for nonsense (mainly Discord bots and other Node.JS scripts)
 - 2022:
   - Reinstalled Linux on HDD for more storage but now it is slow
   - Still using Linux but the Windows OS is faster
+  - Started using Vim for quick edits in the terminal (not my main code editor though)
   - Used JHipster for a big school project and glad I am not using it anymore
   - Learned a tiny bit about NixOS and got confused a lot, but would like to give it another chance someday
-  - Learned more about security and realized home-made cryptography algorithm made in 2017 violates [Kerckhoffs's principle](https://en.wikipedia.org/wiki/Kerckhoffs's_principle)
-  - Started learning about privacy tools and such
-  - Started gradually switching to only using open-source and privacy-friendly software
-  - In the end, this home-made cryptography algorithm made years ago was pretty bad and very easy to break *(what a surprise!)*
-  - Got bored of waiting for Ubuntu to start up and eventually moved back to Windows
-  - Started working as a full-time FullStack .NET developer
+  - Learned more about security and realized home-made cryptography algorithm made in 2016 violates [Kerckhoffs's principle](https://en.wikipedia.org/wiki/Kerckhoffs's_principle)
+  - In the end, this home-made cryptography algorithm made years ago was pretty bad and very easy to break *(what a shock!)*
+  - Started caring about privacy after discovering [Privacy Tools](https://www.privacytools.io/)
+  - Began to gradually switch to only using open-source and privacy-friendly software
+  - Got bored of waiting for Ubuntu to start up and eventually moved back to using Windows full time
+  - Started working as a FullStack .NET developer
   - Stuck on Windows but using Linux daily via WSL
   - Chat GPT came out, this is madness
 - 2023:
   - AI is starting to be everywhere
   - Using Perplexity AI on a daily basis (no need for account and provides sources) 
-  - Using Windows daily and left Ubuntu install in the dust (doing Linux on WSL instead)
+  - Using Windows everyday and left Ubuntu install in the dust (doing Linux on WSL instead)
   - Still becoming increasingly infuriated at Windows
-  - Installed and use GrapheneOS on Pixel phone (only using FLOSS apps at this point)
-  - Started using Vim and NeoVim as main editor
-  - Installed Pop!_OS on an old PC and realized it was faster than my current PC (on Windows 10)
+  - First time installing a custom ROM onto my smartphone: GrapheneOS
+  - Only using FLOSS apps on my main profile
+  - Started using Vim and NeoVim as main code editor
+  - Installed Pop!_OS on an old PC and realized it was faster than my current PC running Windows 10
   - At this point, my Windows frustration was nearing its peak
-  - Bought a NAS + elaborate back up policy ([3-2-1 rule](https://www.seagate.com/blog/what-is-a-3-2-1-backup-strategy/))
+  - Bought a NAS + picked a backup strategy ([3-2-1 rule](https://www.seagate.com/blog/what-is-a-3-2-1-backup-strategy/))
   - Moved Ubuntu files to Windows and deleted the partition on my PC
+  - Hesitated on what to do for a few weeks...
   - Fuck Windows, time to single boot Arch Linux (best decision of the year)
   - Started learning EVEN MORE about Linux (window managers, graphical environments, distros, etc.)
 
