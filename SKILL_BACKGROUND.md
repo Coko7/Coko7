@@ -15,40 +15,54 @@ It exists merely to list all the *artifacts* I have used during my life, which i
 Now you know.
 I may update this list later to include the technologies I feel most proficient with but this is not the current aim of this list.
 
+Also, I have decided to create a custom section named "Timeline" to serve as a biography of my computer journey.
+
 ## ⏳ Timeline
 
 The purpose is to try and retrace my computer science journey. I will *try* to keep it small.
 
 Timeline:
 - Before 2013:
-  - Loves drawing manga and want to make a living as a manga artist 
-  - Real computer noob
+  - Love drawing manga and want to make a living as a manga artist
+  - Participate in drawing contests and got a reasonable place
+  - Real computer noob though
   - Does not even know how to set a slideshow background on Windows
   - Does not know the art of Googling stuff
   - Playing Minecraft and doing Redstone but not good at it
 - 2014:
   - Started going to high school
+  - Joined the weeb club to discuss manga, anime and other japanese stuff
+  - Heard about the computer club and decided to give it a try
+  - Computer club only had four-five people but it was so fun, lots of things to learn
+  - Stopped going to the weeb club and went to the computer club instead (still a big weeb to this day tho)
   - Became a tad better at Redstone
   - Discovered command blocks in Minecraft. First time *"programming"*
   - Started feeling like a Minecraft H4X0R and began making Youtube tutorials about how to use command blocks and redstone for mortals
   - Failed to make something work in one of the tutorial videos
   - Spent 10 minutes trying to fix it but did not succeed
-  - Did not edit the video and uploaded the full video with just me struggling to make something work
+  - Uploaded the full video with no edit on YT (just 10 minutes of me struggling and failing)
   - Stopped the tutorial series after this miserable failure
   - But still continued playing with command blocks and redstone
 - 2015:
   - Continued playing Minecraft like crazy and still experimenting with command blocks
   - Started big command block projects and created many One Command Creations (it was a big thing back in the old days)
-  - Started learning C and C++ as first programming language
-  - Discovered AlgoBox
+  - Discovered AlgoBox during a Maths class
+  - First real experience with a programming language
+  - Spent entire time just programming maths stuff on Algobox
+  - Algobox was not enough to quench my thirst for knowledge
+  - I needed ***MORE***
+  - Ended up finding free online courses and started learning C and C++
+  - At this point, I was using most of my free time just programming in C/C++
 - 2016:
   - Still playing Minecraft and doing even more stupid stuff with command blocks
+  - Became decent at C and started learning HTML and CSS
   - First time hearing about cryptography in advanced maths course
-  - Learned a lot about cryptography and pseudorandomness
+  - Ended up learning a lot about cryptography systems and pseudorandomness
   - Created own custom algorithm based on the [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
   - Algorithm used a random cipher making the message look different each time (despite same content and same key)
+  - I felt like a true champ for implementing my own cryptography system *(timeskip: years later, I realized how bad it was)*
 - 2017:
-  - Started going to programming university
+  - Started going to university to learn programming on a daily basis
   - Still doing nonsense on Minecraft
   - Started doing even more C
   - Used SFML to make the Ultimate Space shooter game for the school's game jam (huge success)
@@ -56,11 +70,14 @@ Timeline:
 - 2018:
   - Started learning about C#
   - Dabbled with WPF and similar stuff
+  - Game jam week arrived and I tried making a rogue like but the room generation algorithm was broken
+  - In the end, the game was a failure (BIG DISAPPOINTMENT)
   - Started a recursive-only course and got very confused
   - Started learning about Java
   - Experimented with Symfony and Laravel
 - 2019:
-  - Did a full VBA internship (darkest memory) 
+  - Did some image processing with Python and CV2 (basics of AI stuff) 
+  - Did a full VBA internship and for some reason, ended up remaking Excel inside Excel (project was fun but VBA sucks) 
   - Started software engineering curriculum
   - First time using Linux, dual boot install of Ubuntu 18 and Windows 10
   - Did even more C programming
@@ -73,8 +90,8 @@ Timeline:
   - Had a lot of fun playing with hardware components
   - Used Minecraft's redstone to train hardware skills
   - Reached pick greatness after making my own simple CPU from scratch reusing all the previous components and gates I had built myself
-  - Retook the hardware course exam, much easier after two months of grinding ARM assembly and hardware
-  - Realized Linux is better than Windows in more ways than programming but gotta keep Windows for gaming and some software
+  - Retook the hardware course exam, piece of cake after two months of grinding ARM assembly and hardware
+  - Realized Linux is better than Windows even for casual stuff but gotta keep Windows for gaming
   - Started learning about Graph theory *(Dijkstra the GOAT)* and complexity classes (THE BIG O)
   - Started learning about Operations research and earned one milk medal for solving bonus problems (still wearing it to this day)
   - A lot of functional programming *(looking at you OCaml)*
@@ -88,19 +105,30 @@ Timeline:
   - At this point, I am almost only using Linux but I still have Windows for gaming
   - Bought a Raspberry Pi at some point and started using for nonsense
 - 2022:
-  - Reinstalled Linux on HDD for more storage but now it is slow, coming back to Windows because too lazy to re-reinstall
-  - Started learning about privacy tools and such
+  - Reinstalled Linux on HDD for more storage but now it is slow
+  - Still using Linux but the Windows OS is faster
   - Used JHipster for a big school project and glad I am not using it anymore
   - Learned a tiny bit about NixOS and got confused a lot, but would like to give it another chance someday
   - Learned more about security and realized home-made cryptography algorithm made in 2017 violates [Kerckhoffs's principle](https://en.wikipedia.org/wiki/Kerckhoffs's_principle)
+  - Started learning about privacy tools and such
+  - Started gradually switching to only using open-source and privacy-friendly software
   - In the end, this home-made cryptography algorithm made years ago was pretty bad and very easy to break *(what a surprise!)*
-  - Stuck on Windows but using Linux daily via WSL
+  - Got bored of waiting for Ubuntu to start up and eventually moved back to Windows
   - Started working as a full-time FullStack .NET developer
+  - Stuck on Windows but using Linux daily via WSL
+  - Chat GPT came out, this is madness
 - 2023:
-  - Installed and use GrapheneOS on Pixel phone
+  - AI is starting to be everywhere
+  - Using Perplexity AI on a daily basis (no need for account and provides sources) 
+  - Using Windows daily and left Ubuntu install in the dust (doing Linux on WSL instead)
+  - Still becoming increasingly infuriated at Windows
+  - Installed and use GrapheneOS on Pixel phone (only using FLOSS apps at this point)
   - Started using Vim and NeoVim as main editor
+  - Installed Pop!_OS on an old PC and realized it was faster than my current PC (on Windows 10)
+  - At this point, my Windows frustration was nearing its peak
   - Bought a NAS + elaborate back up policy ([3-2-1 rule](https://www.seagate.com/blog/what-is-a-3-2-1-backup-strategy/))
-  - Fuck Windows, time to single boot Arch Linux
+  - Moved Ubuntu files to Windows and deleted the partition on my PC
+  - Fuck Windows, time to single boot Arch Linux (best decision of the year)
   - Started learning EVEN MORE about Linux (window managers, graphical environments, distros, etc.)
 
 > The purpose is to try and retrace my computer science journey. I will *try* to keep it small.
