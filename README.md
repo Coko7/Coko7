@@ -19,6 +19,10 @@
 <p>Up until now, I would say I have mainly worked with web development because that is the easiest way for me to share what I create with others.  Ultimately though, my love about IT is all about how we can leverage the power of computing to improve our daily lives.</p>
 </div>
 
+## 📝 Skill set
+
+You can checkout [THE LIST](./SKILL_BACKGROUND.md) to get an idea of things I have used (languages, software, tools, etc.)
+
 <!---
 ## 📬 How to reach me
 
