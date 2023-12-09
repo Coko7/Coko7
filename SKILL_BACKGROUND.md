@@ -37,7 +37,7 @@ First, let's begin with a quick summary of the categories and how I will attempt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coko7&layout=compact)](https://github.com/Coko7)
 --->
 
-### 🌐 Web Development
+### Web Development
 
 #### Front-end frameworks
 
@@ -74,7 +74,7 @@ First, let's begin with a quick summary of the categories and how I will attempt
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
 
-### ⌨️ Code editors
+### Code editors
 
 ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
 ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
@@ -88,7 +88,7 @@ First, let's begin with a quick summary of the categories and how I will attempt
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=flat)
 ![GNU Emacs Badge](https://img.shields.io/badge/GNU%20Emacs-7F5AB6?logo=gnuemacs&logoColor=fff&style=flat)
 
-### 🛠️ Software & Tools Used
+### Software & Tools Used
 
 ![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=flat)
 ![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat)
@@ -102,7 +102,7 @@ First, let's begin with a quick summary of the categories and how I will attempt
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
 ![Perforce Badge](https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=fff&style=flat)
 
-### ⚙️ Programming Languages
+### Programming Languages
 
 ![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -141,7 +141,7 @@ First, let's begin with a quick summary of the categories and how I will attempt
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 
-### 🖥️ Operating Systems
+### Operating Systems
 
 ![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=flat)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
