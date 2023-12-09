@@ -20,16 +20,6 @@ Also, I have decided to create a custom section named "Timeline" to serve as a b
 ## 📝 THE LIST (Forever a WIP)
 
 Everything is here, *or will be...*
-First, let's begin with a quick summary of the categories and how I will attempt to organize this maze:
-- Web
-  - Frameworks
-  - Libraries
-  - Tools
-- Storage
-  - Databases
-  - Backups
-- Operating systems
-- ...
 
 All the badges used here are from the [simple-badges](https://github.com/developStorm/simple-badges) project.
 
@@ -114,12 +104,12 @@ All the badges used here are from the [simple-badges](https://github.com/develop
 
 #### JavaScript runtimes
 
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 
 #### Other libraries
 
-![Handlebars.js Badge](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=flat);
+![Handlebars.js Badge](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=flat)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Leaflet Badge](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=flat)
