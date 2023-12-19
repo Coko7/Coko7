@@ -280,7 +280,9 @@ Timeline:
   - Experimented with Symfony and Laravel
 - 2019:
   - Did some image processing with Python and CV2 (basics of AI stuff) 
-  - Did a full VBA internship and for some reason, ended up remaking Excel inside Excel (project was fun but VBA sucks) 
+  - Did a full VBA internship and for some reason, ended up remaking Excel inside Excel (project was fun but VBA sucks)
+  - Spent some time trying to fix the room generation algorithm from last year
+  - In the end, the algorithm was working well 99% of the time
   - Started software engineering curriculum
   - First time using Linux, dual boot install of Ubuntu 18 and Windows 10
   - Did even more C programming
@@ -338,7 +340,9 @@ Timeline:
   - Moved Ubuntu files to Windows and deleted the partition on my PC
   - Hesitated on what to do for a few weeks...
   - Fuck Windows, time to single boot Arch Linux (best decision of the year)
-  - Started learning EVEN MORE about Linux (window managers, graphical environments, distros, etc.)
+  - Installed it from Scratch by following the [ArchWiki](https://wiki.archlinux.org/) and some Youtube tutorials
+  - Using X.Org as display server and [awesomewm](https://awesomewm.org/) as window manager
+  - Started learning EVEN MORE about Linux (window managers, graphical environments, distros, mounting drives, sound servers, etc.)
 
 > The purpose is to try and retrace my computer science journey. I will *try* to keep it small.
 
