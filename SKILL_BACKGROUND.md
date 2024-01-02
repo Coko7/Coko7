@@ -343,6 +343,7 @@ Timeline:
   - Installed it from Scratch by following the [ArchWiki](https://wiki.archlinux.org/) and some Youtube tutorials
   - Using X.Org as display server and [awesomewm](https://awesomewm.org/) as window manager
   - Started learning EVEN MORE about Linux (window managers, graphical environments, distros, mounting drives, sound servers, etc.)
+  - Finally got my dual monitor setup working after spending weeks trying things with my Nvidia card and finally decided to use it as my primary GPU (thank you [Arch Wiki](https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_NVIDIA_graphics_only))
 
 > The purpose is to try and retrace my computer science journey. I will *try* to keep it small.
 
