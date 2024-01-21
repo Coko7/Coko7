@@ -16,39 +16,40 @@ The purpose is to try and retrace my computer science journey. I will *try* to k
 Timeline:
 - Before 2013:
   - Love drawing manga and want to make a living as a manga artist
-  - Participate in drawing contests and got a reasonable place
+  - Participate in drawing contests and got a reasonable spot
   - Real computer noob though
-  - Does not even know how to set a slideshow background on Windows
-  - Does not know the art of Googling stuff
-  - Playing Minecraft and doing Redstone but not good at it
+  - Do not even know how to set a slideshow background on Windows
+  - Do not know the art of Googling stuff
+  - Playing Minecraft and started experimenting with its [Redstone](https://minecraft.wiki/w/Redstone_circuit)
+  - Created my own forum website using a forum builder tool
 - 2014:
   - Started going to high school
-  - Joined the weeb club to discuss manga, anime and other japanese stuff
+  - Joined the [weeb](https://www.urbandictionary.com/define.php?term=Weeb) club to discuss manga, anime and other japanese stuff
   - Heard about the computer club and decided to give it a try
   - Computer club only had four-five people but it was so fun, lots of things to learn
   - Stopped going to the weeb club and went to the computer club instead (still a big weeb to this day tho)
-  - Became a tad better at Redstone
+  - Became a tad better at Minecraft's Redstone through watching tutorials and experimenting *(Thank you [Aypierre](https://www.youtube.com/user/aypierre)!)*
   - Discovered command blocks in Minecraft. First time *"programming"*
-  - Started feeling like a Minecraft H4X0R and began making Youtube tutorials about how to use command blocks and redstone for mortals
+  - Started feeling like a Minecraft [H4X0R](https://en.wikipedia.org/wiki/Leet) and began making Youtube tutorials about how to use command blocks and redstone for mortals
   - Failed to make something work in one of the tutorial videos
   - Spent 10 minutes trying to fix it but did not succeed
   - Uploaded the full video with no edit on YT (just 10 minutes of me struggling and failing)
   - Stopped the tutorial series after this miserable failure
   - But still continued playing with command blocks and redstone
 - 2015:
-  - Continued playing Minecraft like crazy and still experimenting with command blocks
-  - Started big command block projects and created many One Command Creations (it was a big thing back in the old days)
-  - Discovered AlgoBox during a Maths class
+  - Started big command block projects and created many One Command Creations *(it was a big thing back in the old days)*
+  - Discovered [AlgoBox](https://www.xm1math.net/algobox/) during a Maths class
   - First real experience with a programming language
   - Spent entire time just programming maths stuff on Algobox
   - Algobox was not enough to quench my thirst for knowledge
   - I needed ***MORE***
-  - Ended up finding free online courses and started learning C and C++
+  - Ended up finding [free online courses](https://openclassrooms.com/) and started learning C and C++
   - At this point, I was using most of my free time just programming in C/C++
+  - Thank you [Mathieu Nebra](https://fr.wikipedia.org/wiki/Mathieu_Nebra)
 - 2016:
   - Still playing Minecraft and doing even more stupid stuff with command blocks
   - Became decent at C and started learning HTML and CSS
-  - First time hearing about cryptography in advanced maths course
+  - First time hearing about cryptography in an advanced maths course
   - Ended up learning a lot about cryptography systems and pseudorandomness
   - Created own custom algorithm based on the [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
   - Algorithm used a random cipher making the message look different each time (despite same content and same key)
@@ -62,8 +63,9 @@ Timeline:
 - 2018:
   - Started learning about C#
   - Dabbled with WPF and similar stuff
-  - Game jam week arrived and I tried making a rogue like but the room generation algorithm was broken
-  - In the end, the game was a failure (BIG DISAPPOINTMENT)
+  - Game jam week arrived and my group and I tried to make a rogue like in Unity
+  - We spent too much time on the room generation algorithm and could not make it work
+  - In the end, the game was a failure *(BIG DISAPPOINTMENT)*
   - Started a recursive-only course and got very confused
   - Started learning about Java
   - Experimented with Symfony and Laravel
