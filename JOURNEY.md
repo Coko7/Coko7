@@ -121,6 +121,9 @@ Timeline:
   - First time installing a custom ROM onto my smartphone: GrapheneOS
   - Only using FLOSS apps on my main profile
   - Started using Vim and NeoVim as main code editor
+  - Learned about [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) *(not the music composer)* and its place in the keyboard layout history through this awesome [zine](https://www.dvzine.org/)
+  - Tried it for fun (it was hard but overall a much nicer typing experience)
+  - Dropped it after just two-three days and came back to AZERTY (I will definitely try Dvorak again in the future)
   - Installed Pop!_OS on an old PC and realized it was faster than my current PC running Windows 10
   - At this point, my Windows frustration was nearing its peak
   - Bought a NAS + picked a backup strategy ([3-2-1 rule](https://www.seagate.com/blog/what-is-a-3-2-1-backup-strategy/))
@@ -131,6 +134,10 @@ Timeline:
   - Using X.Org as display server and [awesomewm](https://awesomewm.org/) as window manager
   - Started learning EVEN MORE about Linux (window managers, graphical environments, distros, mounting drives, sound servers, etc.)
   - Finally got my dual monitor setup working after spending weeks trying things with my Nvidia card and finally decided to use it as my primary GPU (thank you [Arch Wiki](https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_NVIDIA_graphics_only))
+- 2024:
+  - As this new year's biggest resolution, I decided to pick up Rust again and learn/experiment with it on a daily basis
+  - Discovered the wonderful world of ergonomic keyboards and their open source firmware
+  - Switched to QWERTY US layout after having used AZERTY all my life (some characters heavily used when programming are easier to input)
 
 > The purpose is to try and retrace my computer science journey. I will *try* to keep it small.
 
