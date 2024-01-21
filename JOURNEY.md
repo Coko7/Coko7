@@ -1,10 +1,12 @@
 # 🚶 My Journey
 
 Lots of things have happened ever since I began my computer journey.
-I spent most of my time learning new things and experimenting with stuff.
+I have learned a lot and have experimented a lot and I am still doing that.
+
 Since I am really bad at remembering things, I wanted to create some kind of document to keep track of what I have done up until now and where I currently stand.
 I am not trying to write my own life story here, but I do want to mark down the important steps of my ongoing journey.
 The goal is to keep this as a big list where each point corresponds to a milestone or something worth mentioning.
+
 This list is a *WIP* and is going to keep evolving as I discover and learn new things.
 
 ## ⏳ Timeline
