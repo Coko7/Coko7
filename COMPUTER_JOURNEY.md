@@ -142,6 +142,7 @@ Timeline:
   - As this new year's biggest resolution, I decided to pick up Rust again and learn/experiment with it on a daily basis
   - Discovered the wonderful world of ergonomic keyboards and their open source firmware
   - Switched to QWERTY US layout after having used AZERTY all my life (some characters heavily used when programming are easier to input)
+  - Started using the ergonomic [Sofle keyboard](https://github.com/josefadamcik/SofleKeyboard)
 
 > The purpose is to try and retrace my computer science journey. I will *try* to keep it small.
 
