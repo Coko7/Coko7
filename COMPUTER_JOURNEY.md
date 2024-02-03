@@ -1,4 +1,4 @@
-# 🚶 My Journey
+# 🚶 Computer Journey
 
 Lots of things have happened ever since I began my computer journey.
 I have learned a lot and have experimented a lot and I am still doing that.

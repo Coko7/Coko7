@@ -1,4 +1,4 @@
-# 🛠️ Skill set background
+# 🛠️ Familiar Techs
 
 I have spent a lot of time learning and experimenting with computers ever since I started to get into programming.
 And because my brain can only store so much, I wanted to keep a list of all the things I have used either professionally or personnally during the years.

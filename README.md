@@ -1,4 +1,4 @@
-![Corentin Humbert](./images/banner_time_formula.png)
+![coko-banner](./images/banner_time_formula.png)
 
 <h1 align="center">Hi, I'm Coko <img src="./images/hi.gif" width="35" /></h1>
 <h2 align="center">CS lover and automation enthusiast</h2>
@@ -27,11 +27,11 @@
   <p>Linux also allows me to take full control of my system and tailor it to my way of working. Check out my <a href="https://github.com/Coko7/.dotfiles">.dotfiles</a> to get an idea of my current setup.</p>
 </div>
 
-## 🛠️ Skill set
+## 🛠️ Familiar Techs
 
-You can checkout [THE LIST](./SKILL_BACKGROUND.md) to get an idea of things I have used (languages, software, tools, etc.)
+Checkout [THE LIST](./FAMILIAR_TECHS.md) to get an idea of things I have used (languages, software, tools, etc.)
 
-## 🚶‍♂️ Journey
+## 🚶 Computer Journey
 
 I am keeping a history of the important milestones and events that populate my computer journey.
-You can find it [here](./JOURNEY.md).
+You can find it [here](./COMPUTER_JOURNEY.md)
