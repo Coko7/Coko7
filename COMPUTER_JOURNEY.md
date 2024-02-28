@@ -119,6 +119,7 @@ Timeline:
   - Got bored of waiting for Ubuntu to start up and eventually moved back to using Windows full time
   - Started working as a FullStack .NET developer
   - Stuck on Windows but using Linux daily via WSL
+  - Participated in the [2022 edition](https://adventofcode.com/2022) of the Advent of Code ([DNF](https://dictionary.cambridge.org/dictionary/english/dnf))
   - Chat GPT came out, this is madness
 - 2023:
   - AI is starting to be everywhere
@@ -140,6 +141,7 @@ Timeline:
   - Installed it from Scratch by following the [ArchWiki](https://wiki.archlinux.org/) and some Youtube tutorials
   - Using X.Org as display server and [awesomewm](https://awesomewm.org/) as window manager
   - Started learning EVEN MORE about Linux (window managers, graphical environments, distros, mounting drives, sound servers, etc.)
+  - Participated in the [2023 edition](https://adventofcode.com/2023) of the Advent of Code ([DNF](https://dictionary.cambridge.org/dictionary/english/dnf) this year either but got further)
   - Finally got my dual monitor setup working after spending weeks trying things with my Nvidia card and finally decided to use it as my primary GPU (thank you [Arch Wiki](https://wiki.archlinux.org/title/NVIDIA_Optimus#Use_NVIDIA_graphics_only))
 - 2024:
   - As this new year's biggest resolution, I decided to pick up Rust again and learn/experiment with it on a daily basis
