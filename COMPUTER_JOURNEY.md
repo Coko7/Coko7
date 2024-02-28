@@ -83,6 +83,7 @@ Timeline:
   - Briefly learned about Angular but dropped very quickly
 - 2020:
   - Failed the hardware course
+  - Implemented an existing card game in Discord (Node.Js)
   - Spent entire summer holidays re-learning full hardware course from scratch
   - Had a lot of fun playing with hardware components
   - Used Minecraft's redstone to train hardware skills
@@ -101,8 +102,10 @@ Timeline:
   - Started learning about esotheric programming languages 
   - At this point, I am almost only using Linux but I still have Windows for gaming
   - Did an internship using Java Spring framework
-  - Started learning Vue.js and used it to make my biggest project so far
-  - Bought a Raspberry Pi at some point and started using it for nonsense (mainly Discord bots and other Node.JS scripts)
+  - Started learning Vue.js on a daily basis
+  - Bought a Raspberry Pi to host some projects (mainly Discord bots and other scripts)
+  - Converted the card game Discord bot into a Web Backend using WebSocket communications
+  - Created the Frontend in Vue.js and hosted the whole thing on my Raspberry Pi
 - 2022:
   - Reinstalled Linux on HDD for more storage but now it is slow
   - Still using Linux but the Windows OS is faster
