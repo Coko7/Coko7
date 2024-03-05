@@ -148,6 +148,7 @@ Timeline:
   - Discovered the wonderful world of ergonomic keyboards and their open source firmware
   - Switched to QWERTY US layout after having used AZERTY all my life (some characters heavily used when programming are easier to input)
   - Started using the ergonomic [Sofle keyboard](https://github.com/josefadamcik/SofleKeyboard)
+  - Began fiddling with QMK firmware and its C API to customize my Sofle keyboard (no longer using VIA)
 
 > The purpose is to try and retrace my computer science journey. I will *try* to keep it small.
 
