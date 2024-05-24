@@ -22,7 +22,7 @@
 
   ## 👁️ Privacy focus
   <p>I am a privacy-focused guy and I like to be mindful of where my data goes. I spend a lot of time picking the tools and apps I want to use, and making sure they align with my values.</p>
-  <p>I strongly support the <a href="https://en.wikipedia.org/wiki/Open-source-software_movement">Open-source-software movement</a> and apart from the few indie games I play, I rely primarly on <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FLOSS apps</a> for my daily usage.</p>
+  <p>I strongly support the <a href="https://en.wikipedia.org/wiki/Open-source-software_movement">Open-source-software movement</a> and apart from the few indie games I play, I rely primarly on <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FLOSS apps</a> for my daily usage. I have listed some of the apps I use in the <a href="https://github.com/Coko7/my-floss">my-floss</a> repository.</p>
   <p>That lead me to be a strong Linux enjoyer and I prefer to stay away from Windows and Microsoft when I can. <i><a href="https://www.urbandictionary.com/define.php?term=i%20use%20arch%20btw">I use Arch btw.</a></i></p>
   <p>Linux also allows me to take full control of my system and tailor it to my way of working. Check out my <a href="https://github.com/Coko7/.dotfiles">.dotfiles</a> to get an idea of my current setup.</p>
 </div>
