@@ -1,30 +1,30 @@
 ![coko-banner](./images/banner_time_formula.png)
 
-<h1 align="center">Hi, I'm Coko <img src="./images/hi.gif" width="35" /></h1>
-<h2 align="center">CS lover and automation enthusiast</h2>
+<h1 align="center">Hey, I'm Coko <img src="./images/hi.gif" width="35" /></h1>
+<h2 align="center">I like computers and stuff</h2>
 
 ## 🐘 `whoami`?
 
 <div align="justify">
-  <p>At my core, I would say I am fundamentaly a <b>lazy</b> and <b>curious</b> person:</p> 
+  <p>I am <b>lazy</b> and <b>curious</b>.</p> 
   <ul>
-    <li>Lazy because I hate doing the same tedious tasks over and over when I could have an automated system do it in my stead.</li>
-    <li>And curious because the world of computer science is both fascinating and very complex and I always want to learn more about it.</li>
+    <li>Lazy because I'd rather spend time automating tasks rather than executing them manually. As soon as something becomes repetitive, I will look for a way to automate it. <i>I can't help it.</i></li>
+    <li>Curious because I love to learn about the world of computing. There is so much to discover that I will never see the end of it and that's where the fun stems from.</li>
   </ul>
-  <p>I am amazed by how humans were able to design such complex information systems in so little time. The more I learn about computers, the more I realize <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">how little I know</a> about them.</p>
+  <p>It's really amazing how far computers have come. The more I learn about computers, the more I realize <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">how little I know</a> about them.</p>
 
-  ## 📚 Learning is breathing
+  ## 📚 Keep on learning
   <p>I enjoy learning new things, this is what keeps me going in life.</p>
   <p>While I have a preference for writing code, I love to learn about everything that has to do with computers and how they work.</p>
-  <p>I have the most experience with web development because this has always been the easiest way for me to share what I create with others. That's why many of my projects are related to the web. Ultimately though, as long I find an idea, project or technology interesting, I will certainly have fun working with it.</p>
-  <p>I once started learning about logic gates and how computers function at the hardware level. Despite being very different from casual programming and very far from web development, it was one of the learning experiences I enjoyed the most.</p>
-  <p>Learning is my oxygen and if I do not learn something new every week I become bored very quickly and start feeling down.</p>
+  <p>I have done a lot of web development because this has always been the easiest way for me to share what I create with others. Ultimately though, as long I find an idea, project or technology interesting, I will certainly have fun working with it.</p>
+  <p>One of my most memorable projects was starting from scratch and making a fully working minimalistic CPU using logic gates (only virtually though, I have yet to build it for real). It was very different from web development but that's precisely why I had so much fun working on it.</p>
 
   ## 👁️ Privacy focus
   <p>I am a privacy-focused guy and I like to be mindful of where my data goes. I spend a lot of time picking the tools and apps I want to use, and making sure they align with my values.</p>
-  <p>I strongly support the <a href="https://en.wikipedia.org/wiki/Open-source-software_movement">Open-source-software movement</a> and apart from the few indie games I play, I rely primarly on <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FLOSS apps</a> for my daily usage. I have listed some of the apps I use in the <a href="https://github.com/Coko7/my-floss">my-floss</a> repository.</p>
-  <p>That lead me to be a strong Linux enjoyer and I prefer to stay away from Windows and Microsoft when I can. <i><a href="https://www.urbandictionary.com/define.php?term=i%20use%20arch%20btw">I use Arch btw.</a></i></p>
-  <p>Linux also allows me to take full control of my system and tailor it to my way of working. Check out my <a href="https://github.com/Coko7/.dotfiles">.dotfiles</a> to get an idea of my current setup.</p>
+  <p>I strongly support the <a href="https://en.wikipedia.org/wiki/Open-source-software_movement">Open-source-software movement</a> and apart from the few indie games I play, I rely primarly on <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FLOSS</a> for my daily usage. I have listed some of the apps I use in the <a href="https://github.com/Coko7/my-floss">my-floss</a> repository.</p>
+  <p>This naturally lead me to Linux and I prefer to stay away from Windows and Microsoft when I can.</p>
+  <p>But, setting aside the data collection aspect aside, the reason I pick Linux over Windows is for the ability to customize my system exactly how I want it.</p>
+  <p>Check out my <a href="https://github.com/Coko7/.dotfiles">system config files</a> if you are interested. <i><a href="https://www.urbandictionary.com/define.php?term=i%20use%20arch%20btw">Arch user btw.</a></i></p>
 </div>
 
 ## 🛠️ Familiar Techs
