@@ -149,6 +149,14 @@ Timeline:
   - Switched to QWERTY US layout after having used AZERTY all my life (some characters heavily used when programming are easier to input)
   - Started using the ergonomic [Sofle keyboard](https://github.com/josefadamcik/SofleKeyboard)
   - Began fiddling with QMK firmware and its C API to customize my Sofle keyboard (no longer using VIA)
+  - Bought a Steam Deck and [put Nix on it](https://determinate.systems/posts/nix-on-the-steam-deck/) to be able to install many packages and use it as a secondary development machine
+  - Discovered how powerful [fzf](https://github.com/junegunn/fzf) is and started tweaking some of my scripts to make use of it
+  - Got serious about my NeoVim config and remade it from scratch by following ThePrimeagen's config and kickstart
+  - Started playing Minecraft again (1.20.6 - 1.21) after a solid year of absence
+  - Spent time learning about the new datapack system and new commands
+  - Used Python and OpenCV to make [a script](https://github.com/Coko7/mc-fish-pye) that allows me to fish in Minecraft while AFK
+  - Started playing around with datapacks
+  - Started reading [Hacker's Delight](https://en.wikipedia.org/wiki/Hacker's_Delight) by Henry S. Warren
 
 > The purpose is to try and retrace my computer science journey. I will *try* to keep it small.
 
