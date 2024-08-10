@@ -31,6 +31,8 @@
 
 Checkout [THE LIST](./FAMILIAR_TECHS.md) to get an idea of things I have used (languages, software, tools, etc.)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coko7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚶 Computer Journey
 
 I am keeping a history of the important milestones and events that populate my computer journey.
