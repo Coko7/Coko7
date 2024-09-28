@@ -4,36 +4,34 @@
 <h2 align="center">I like computers and stuff</h2>
 
 ## 🐘 `whoami`?
+I'm **lazy** and **curious**. I love:
+- Automating everything
+- Learning about tech
+- Vim and Linux
 
-<div align="justify">
-  <p>I am <b>lazy</b> and <b>curious</b>.</p> 
-  <ul>
-    <li>Lazy because I'd rather spend time automating tasks rather than executing them manually. As soon as something becomes repetitive, I will look for a way to automate it. <i>I can't help it.</i></li>
-    <li>Curious because I love to learn about the world of computing. There is so much to discover that I will never see the end of it, and that's where the fun stems from.</li>
-  </ul>
-  <p>It's really amazing how far computers have come. The more I learn about computers, the more I realize <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">how little I know</a> about them.</p>
+Computers are wild.
 
-  ## 📚 Keep on learning
-  <p>I enjoy learning new things, this is what keeps me going in life.</p>
-  <p>While I have a preference for writing code, I love to learn about everything that has to do with computers and how they work.</p>
-  <p>I have done a lot of web development because this has always been the easiest way for me to share what I create with others. Ultimately though, as long I find an idea, project, or technology interesting, I will certainly have fun working with it.</p>
-  <p>One of my most memorable projects was starting from scratch and making a fully working minimalistic CPU using logic gates (only virtually though, I have yet to build it for real). It was very different from web development, but that's precisely why I had so much fun working on it.</p>
+## 📚 Keep on learning
+- I like learning new stuff, keeps me going
+- I prefer coding, but I dig computers and how they work
+- I do web dev 'cause it's easy to share what I make. But I'll work on anything interesting
+- My fave project was building a CPU from scratch in [Lustre](https://wikipedia.org/wiki/Lustre_(programming_language)). Different from web dev, that's why it was fun
 
-  ## 👁️ Privacy focus
-  <p>I am a privacy-focused guy and I like to be mindful of where my data goes. I spend a lot of time picking the tools and apps I want to use, and making sure they align with my values.</p>
-  <p>I strongly support the <a href="https://en.wikipedia.org/wiki/Open-source-software_movement">Open-source-software movement</a> and apart from the few indie games I play, I rely primarily on <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FLOSS</a> for my daily usage. I have listed some of the apps I use in the <a href="https://github.com/Coko7/my-floss">my-floss</a> repository.</p>
-  <p>This naturally lead me to Linux, and I prefer to stay away from Windows and Microsoft when I can.</p>
-  <p>But, setting aside the data collection aspect, the reason I pick Linux over Windows is for the ability to customize my system exactly how I want it.</p>
-  <p>Check out my <a href="https://github.com/Coko7/.dotfiles">system config files</a> if you are interested. <i><a href="https://www.urbandictionary.com/define.php?term=i%20use%20arch%20btw">Arch user btw.</a></i></p>
-</div>
+## 👁️ Privacy focus
+- I'm a privacy nut. I pick my tools carefully to match my values
+- I love open-source. I use [FLOSS](https://wikipedia.org/wiki/Free_and_open-source_software) daily. Check my [repo](https://github.com/Coko7/my-floss)
+- I use Linux, not Windows. [Customization](https://github.com/Coko7/.dotfiles) is why
+- [Arch user.](https://www.urbandictionary.com/define.php?term=i%20use%20arch%20btw)
+
 
 ## 🛠️ Familiar Techs
 
-Checkout [THE LIST](./FAMILIAR_TECHS.md) to get an idea of things I have used (languages, software, tools, etc.)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coko7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚶 Computer Journey
+Also, check [THE LIST](./FAMILIAR_TECHS.md)
 
-I am keeping a history of the important milestones and events that populate my computer journey.
-You can find it [here](./COMPUTER_JOURNEY.md)
+## 🏁 That's all
+
+This is the [Bullshit removed](https://www.bullshitremover.com/) version of my README.
+
+If you wanna [OSINT](https://wikipedia.org/wiki/Open-source_intelligence) me some more, hit that `git log`.
