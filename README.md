@@ -1,15 +1,12 @@
-![coko-banner](./images/banner_time_formula.png)
-
-<h1 align="center">Hey, I'm Coko <img src="./images/hi.gif" width="35" /></h1>
-<h2 align="center">I like computers and stuff</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=coko7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🐘 `whoami`?
+Hey, I'm Coko <img src="./images/hi.gif" width="25" />
+
 I'm **lazy** and **curious**. I love:
 - Automating everything
 - Learning about tech
 - Vim and Linux
-
-Computers are wild.
 
 ## 📚 Keep on learning
 - I like learning new stuff, keeps me going
@@ -23,10 +20,9 @@ Computers are wild.
 - I use Linux, not Windows. [Customization](https://github.com/Coko7/.dotfiles) is why
 - [Arch user.](https://www.urbandictionary.com/define.php?term=i%20use%20arch%20btw)
 
-
 ## 🛠️ Familiar Techs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coko7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=coko7&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Also, check [THE LIST](./FAMILIAR_TECHS.md)
 
