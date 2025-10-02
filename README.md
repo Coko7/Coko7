@@ -10,3 +10,33 @@ I love working in Linux and the terminal is where I spend most of my time.
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=coko7&show_icons=true&theme=transparent" />
 </a>
+
+#### 👷 My active projects
+
+- [Coko7/nvim-config](https://github.com/Coko7/nvim-config) - My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (1 day ago)
+- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - All the .dotfiles that I use for my Linux config (1 day ago)
+- [Coko7/crkbd](https://github.com/Coko7/crkbd) - VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (1 day ago)
+- [Coko7/somfy-home-controller](https://github.com/Coko7/somfy-home-controller) - Simple Node app to automatically control your Somfy shutters based on your local day cycle. (1 day ago)
+- [Coko7/bookshelf](https://github.com/Coko7/bookshelf) - 📚 Tracking the books I&#39;m reading these days  (2 days ago)
+
+#### 🌱 My latest projects
+
+- [Coko7/bookshelf](https://github.com/Coko7/bookshelf) - 📚 Tracking the books I&#39;m reading these days 
+- [Coko7/git-zash](https://github.com/Coko7/git-zash) - Backup git stashes to a local directory and re-apply them later.
+- [Coko7/sven](https://github.com/Coko7/sven) - CLI for the Folkets lexikon, the Swedish-English dictionary 
+- [Coko7/crkbd](https://github.com/Coko7/crkbd) - VIAL config for my Corne (foostan/crkbd) RGB keyboard. 
+- [Coko7/cornerpond-afk](https://github.com/Coko7/cornerpond-afk) - Simple Linux autoclicker for Cornerpond idle game on Steam
+
+#### ⭐ Recent Stars
+
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (today)
+- [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go (today)
+- [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment. (1 day ago)
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources. (1 day ago)
+- [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins &amp; resources for CLI lovers. (1 day ago)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-light.svg">
+  <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-light.svg">
+</picture>
