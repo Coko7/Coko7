@@ -12,11 +12,11 @@ I love working in Linux and the terminal is where I spend most of my time.
 </a>
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
