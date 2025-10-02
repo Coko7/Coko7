@@ -10,7 +10,7 @@ on:
 
   push:
     branches:
-    - test-scribe
+    - main
 
 jobs:
   generate-snake:
