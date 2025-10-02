@@ -13,10 +13,10 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/nvim-config](https://github.com/Coko7/nvim-config) - My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (1 day ago)
 - [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - All the .dotfiles that I use for my Linux config (1 day ago)
-- [Coko7/crkbd](https://github.com/Coko7/crkbd) - VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (1 day ago)
 - [Coko7/somfy-home-controller](https://github.com/Coko7/somfy-home-controller) - Simple Node app to automatically control your Somfy shutters based on your local day cycle. (1 day ago)
+- [Coko7/crkbd](https://github.com/Coko7/crkbd) - VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (1 day ago)
+- [Coko7/nvim-config](https://github.com/Coko7/nvim-config) - My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (1 day ago)
 - [Coko7/bookshelf](https://github.com/Coko7/bookshelf) - 📚 Tracking the books I&#39;m reading these days  (2 days ago)
 
 #### 🌱 My latest projects
