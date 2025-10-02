@@ -11,6 +11,11 @@ I love working in Linux and the terminal is where I spend most of my time.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=coko7&show_icons=true&theme=transparent" />
 </a>
 
+#### 👷 My active projects
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
 #### 🌱 My latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
