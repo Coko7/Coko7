@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - All the .dotfiles that I use for my Linux config (5 days ago)
-- [Coko7/somfy-home-controller](https://github.com/Coko7/somfy-home-controller) - Simple Node app to automatically control your Somfy shutters based on your local day cycle. (5 days ago)
-- [Coko7/crkbd](https://github.com/Coko7/crkbd) - VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (5 days ago)
+- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - All the .dotfiles that I use for my Linux config (6 days ago)
+- [Coko7/somfy-home-controller](https://github.com/Coko7/somfy-home-controller) - Simple Node app to automatically control your Somfy shutters based on your local day cycle. (6 days ago)
+- [Coko7/crkbd](https://github.com/Coko7/crkbd) - VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [jaroslaw-weber/keyfab](https://github.com/jaroslaw-weber/keyfab) - keyboard layout design editor (4 days ago)
-- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (4 days ago)
-- [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go (4 days ago)
+- [jaroslaw-weber/keyfab](https://github.com/jaroslaw-weber/keyfab) - keyboard layout design editor (5 days ago)
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif (5 days ago)
+- [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go (5 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
