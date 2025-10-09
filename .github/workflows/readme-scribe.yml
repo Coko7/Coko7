@@ -1,10 +1,10 @@
 name: Update README
 
-# Run daily at 01:00 AM UTC
+# Run daily at 23:50 UTC
 on:
   push:
   schedule:
-    - cron: "0 01 * * *"
+    - cron: "50 23 * * *"
 
 jobs:
   markscribe:
@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: "docs: update generated README"
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
