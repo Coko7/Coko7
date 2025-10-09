@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
+- [Lambpaul/op-tcg](https://github.com/Lambpaul/op-tcg) -  (1 day ago)
 - [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - All the .dotfiles that I use for my Linux config (1 day ago)
 - [Coko7/nvim-config](https://github.com/Coko7/nvim-config) - My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (1 week ago)
-- [Coko7/crkbd](https://github.com/Coko7/crkbd) - VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 day ago)
-- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust (1 day ago)
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (1 day ago)
+- [Lambpaul/op-tcg](https://github.com/Lambpaul/op-tcg) -  (1 day ago)
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (1 day ago)
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
