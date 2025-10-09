@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/nvim-config](https://github.com/Coko7/nvim-config) - 🐚 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (today)
-- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🐚 All the .dotfiles that I use for my Linux config (today)
-- [Coko7/crkbd](https://github.com/Coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (today)
+- [Coko7/nvim-config](https://github.com/Coko7/nvim-config) - 🚀 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (today)
+- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (today)
+- [Coko7/vegapull](https://github.com/Coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (today)
 
 #### 🌱 My latest projects
 
