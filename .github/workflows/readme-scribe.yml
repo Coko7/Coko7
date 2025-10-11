@@ -1,10 +1,10 @@
 name: Update README
 
-# Run daily at 23:50 UTC
+# Run daily at 01:00 UTC
 on:
   push:
   schedule:
-    - cron: "50 23 * * *"
+    - cron: "0 01 * * *"
 
 jobs:
   markscribe:
