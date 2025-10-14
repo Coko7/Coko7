@@ -14,8 +14,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 #### 👷 My active projects
 
 - [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [Coko7/vegapull](https://github.com/Coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
-- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (2 days ago)
+- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (1 day ago)
+- [Coko7/vegapull](https://github.com/Coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer &amp; processor (2 days ago)
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (3 days ago)
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (3 days ago)
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 day ago)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better. (1 day ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
