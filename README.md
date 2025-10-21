@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (5 days ago)
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (6 days ago)
+- [Coko7/mataho](https://github.com/Coko7/mataho) - 🏠 Command line interface to interact with a local Tahoma box (1 day ago)
+- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (1 day ago)
+- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. (3 days ago)
-- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux (3 days ago)
-- [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts (4 days ago)
+- [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL (1 day ago)
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. (4 days ago)
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux (4 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
