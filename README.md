@@ -13,21 +13,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/vegapull](https://github.com/Coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
-- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
-- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (3 days ago)
+- [Coko7/test-tauri-app](https://github.com/Coko7/test-tauri-app) -  (1 day ago)
+- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (1 day ago)
+- [Coko7/vegapull](https://github.com/Coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
 
 #### 🌱 My latest projects
 
+- [Coko7/test-tauri-app](https://github.com/Coko7/test-tauri-app) - 
 - [Coko7/bookshelf](https://github.com/Coko7/bookshelf) - 📚 Tracking the books I&#39;m reading these days 
 - [Coko7/git-zash](https://github.com/Coko7/git-zash) - 💾 Backup git stashes to a local directory and re-apply them later.
-- [Coko7/sven](https://github.com/Coko7/sven) - 🌍 CLI for the Folkets lexikon, the Swedish-English dictionary 
 
 #### ⭐ Recent Stars
 
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (2 days ago)
-- [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL (3 days ago)
-- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. (6 days ago)
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (1 day ago)
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast. (1 day ago)
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
