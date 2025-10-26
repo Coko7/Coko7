@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (2 days ago)
-- [Coko7/test-tauri-app](https://github.com/Coko7/test-tauri-app) - 🖥️ Just testing out Tauri to make desktop apps (2 days ago)
+- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
+- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (3 days ago)
+- [Coko7/test-tauri-app](https://github.com/Coko7/test-tauri-app) - 🖥️ Just testing out Tauri to make desktop apps (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (2 days ago)
-- [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast. (2 days ago)
-- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration (4 days ago)
+- [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) -  💸💸 Curated list of investment &amp; finance related resources  (1 day ago)
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (3 days ago)
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast. (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
