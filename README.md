@@ -13,21 +13,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
-- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (3 days ago)
-- [Coko7/test-tauri-app](https://github.com/Coko7/test-tauri-app) - 🖥️ Just testing out Tauri to make desktop apps (3 days ago)
+- [Coko7/op-tcg-auto-scripts](https://github.com/Coko7/op-tcg-auto-scripts) - ✨ Collection of bash scripts to farm cards on op-tcg website (1 day ago)
+- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
+- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (4 days ago)
 
 #### 🌱 My latest projects
 
+- [Coko7/op-tcg-auto-scripts](https://github.com/Coko7/op-tcg-auto-scripts) - ✨ Collection of bash scripts to farm cards on op-tcg website
 - [Coko7/test-tauri-app](https://github.com/Coko7/test-tauri-app) - 🖥️ Just testing out Tauri to make desktop apps
 - [Coko7/bookshelf](https://github.com/Coko7/bookshelf) - 📚 Tracking the books I&#39;m reading these days 
-- [Coko7/git-zash](https://github.com/Coko7/git-zash) - 💾 Backup git stashes to a local directory and re-apply them later.
 
 #### ⭐ Recent Stars
 
-- [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) -  💸💸 Curated list of investment &amp; finance related resources  (1 day ago)
-- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (3 days ago)
-- [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast. (3 days ago)
+- [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games) - An ultra mega giga curated list of programming games (1 day ago)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (1 day ago)
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
