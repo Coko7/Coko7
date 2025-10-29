@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/op-tcg-auto-scripts](https://github.com/Coko7/op-tcg-auto-scripts) - ✨ Collection of bash scripts to farm cards on op-tcg website (2 days ago)
-- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
-- [Coko7/kanumi](https://github.com/Coko7/kanumi) - 🎨 Manage collection of images from your terminal (5 days ago)
+- [Coko7/vegapull](https://github.com/Coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
+- [Coko7/op-tcg-auto-scripts](https://github.com/Coko7/op-tcg-auto-scripts) - ✨ Collection of bash scripts to farm cards on op-tcg website (3 days ago)
+- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games) - An ultra mega giga curated list of programming games (2 days ago)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (2 days ago)
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. (2 days ago)
+- [buhbbl/punk-records](https://github.com/buhbbl/punk-records) - Static, versioned JSON card dataset for the One Piece TCG (1 day ago)
+- [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games) - An ultra mega giga curated list of programming games (3 days ago)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
