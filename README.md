@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [Coko7/vegapull](https://github.com/Coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
-- [Coko7/op-tcg-auto-scripts](https://github.com/Coko7/op-tcg-auto-scripts) - ✨ Collection of bash scripts to farm cards on op-tcg website (3 days ago)
-- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
+- [Coko7/.dotfiles](https://github.com/Coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
+- [Coko7/vegapull](https://github.com/Coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
+- [Coko7/op-tcg-auto-scripts](https://github.com/Coko7/op-tcg-auto-scripts) - ✨ Collection of bash scripts to farm cards on op-tcg website (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [buhbbl/punk-records](https://github.com/buhbbl/punk-records) - Static, versioned JSON card dataset for the One Piece TCG (1 day ago)
-- [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games) - An ultra mega giga curated list of programming games (3 days ago)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks (3 days ago)
+- [mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features. (1 day ago)
+- [buhbbl/punk-records](https://github.com/buhbbl/punk-records) - Static, versioned JSON card dataset for the One Piece TCG (2 days ago)
+- [readyready15728/awesome-programming-games](https://github.com/readyready15728/awesome-programming-games) - An ultra mega giga curated list of programming games (4 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
